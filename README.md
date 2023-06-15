@@ -4,9 +4,6 @@ jwalk
 mochijson-style, and proplists.
 # 
 
-[![Build Status](https://travis-ci.org/jr0senblum/jwalk.svg?branch=master)](https://travis-ci.org/jr0senblum/jwalk)
-[![hex.pm version](https://img.shields.io/hexpm/v/jwalk.svg)](https://hex.pm/packages/jwalk)
-# 
 
 This work is inspired by [ej](https://github.com/seth/ej), but handles all common JSON 
 representations: eep-18, map, mochijson-style and proplists, the types returned by 
@@ -26,7 +23,7 @@ Hex package manager is used for package management.
 
 ### QuickStart  
 #### clone
-$ git clone git://github.com/jr0senblum/jwalk.git
+$ git clone git://github.com/jro-cb/jwalk.git
 $ cd jwalk
 
 #### compile
